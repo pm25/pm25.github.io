@@ -15,7 +15,7 @@ author: Pin-Yen Huang
   <h3>Pin-Yen's Personal Website</h3>
 
   <p>
-    Hi! I'm Pin-Yen. This repository contains the complete source code for my personal website, which is also hosted on GitHub pages.<br />
+    Hi! I'm Pin-Yen. This repository contains the complete source code for my personal website.<br />
     If you like the style, feel free to check out 🥪 <a href="https://github.com/pm25/simpleplain">pm25/simpleplain</a>, where I’ve organized the code used in my website into an easy-to-use and customizable template for your own site.
     <br /><br />
     <a href="https://pm25.github.io">🌐 Website</a> ·
