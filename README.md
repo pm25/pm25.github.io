@@ -8,36 +8,27 @@ author: Pin-Yen Huang
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/pm25/simpleplain">
-    <img src="public/full_logo.png" alt="Logo" width="360">
+  <a href="https://pm25.github.io">
+    <img src="preview/homepage.webp" alt="Homepage" width="360" />
   </a>
 
-  <h3 align="center">My Personal Website</h3>
+  <h3>Pin-Yen's Personal Website</h3>
 
-  <p align="center">
-    Hi! I'm Pin-Yen. This repository contains the complete source code for my personal website, which also serves as my GitHub Pages site.  
-    If you like the style of my website, feel free to check out <a href="https://github.com/pm25/simpleplain">pm25/simpleplain</a>, where I've adapted the code into an easy-to-use and customizable template for your own website.
+  <p>
+    Hi! I'm Pin-Yen. This repository contains the complete source code for my personal website, which is also hosted on GitHub pages.<br />
+    If you like the style, feel free to check out 🥪 <a href="https://github.com/pm25/simpleplain">pm25/simpleplain</a>, where I’ve organized the code used in my website into an easy-to-use and customizable template for your own site.
     <br /><br />
-    <a href="https://pm25.github.io">🌐 Website</a>
-    ·
-    <a href="https://github.com/pm25/simpleplain/issues/new?labels=bug&template=bug-report---.md">🐞 Report a Bug</a>
-    ·
-    <a href="https://github.com/pm25/simpleplain/issues/new?labels=enhancement&template=feature-request---.md">💡 Request a Feature</a>
+    <a href="https://pm25.github.io">🌐 Website</a> ·
+    <a href="https://github.com/pm25/pm25.github.io/issues/new?labels=bug&template=bug-report---.md">🐞 Report a Bug</a> ·
+    <a href="https://github.com/pm25/pm25.github.io/issues/new?labels=enhancement&template=feature-request---.md">💡 Request a Feature</a>
   </p>
 </div>
-
-<p align="center">
-  🚧 This project is still under construction! 🚧
-</p>
 
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#about-the-template">About The Template</a></li>
-    <li><a href="#preview">Preview</a></li>
-    <li><a href="#getting-started">Getting Started</a></li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#about-the-template">About The Website</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -46,7 +37,7 @@ author: Pin-Yen Huang
 
 <!-- ABOUT THE PROJECT -->
 
-## About The Template
+## About The Website
 
 Having a personal website is essential in today's world—it’s a great way to showcase your portfolio, share your experiences, and highlight your projects so others can get to know you better. However, building a personal website from scratch can be time-consuming, especially for those without web development experience.
 
@@ -63,105 +54,6 @@ This project is primarily built using the following frameworks and libraries:
 -   [![Tailwind CSS][Tailwind.css]][Tailwind-url]
 -   [![Typescript][Typescript]][Typescript-url]
 -   [![shadcn/ui][shadcn.ui]][shadcn-url]
-
-<p align="right"><a href="#readme-top">⬆️ Back to top</a></p>
-
-## Preview
-
-See how 🥪 SimplePlain looks in both light and dark themes:
-
-### ☀️ Light Mode
-
-![Light Mode][screenshot-light]
-
-### 🌙 Dark Mode
-
-![Dark Mode][screenshot-dark]
-
-<p align="right"><a href="#readme-top">⬆️ Back to top</a></p>
-
-<!-- GETTING STARTED -->
-
-## Getting Started
-
-Follow these steps to set up and run the project locally, and deploy it to GitHub Pages.
-
-### ✅ Prerequisites
-
-Make sure you have [Node.js](https://nodejs.org/) and npm installed. You can update npm to the latest version using:
-
-```sh
-npm install npm@latest -g
-```
-
-### 🛠️ Installation
-
-1. **Clone the repository**
-
-```sh
-git clone https://github.com/pm25/simpleplain.git
-cd simpleplain
-```
-
-2. **Install dependencies**
-
-```sh
-npm install
-```
-
-3. **Start the development server**
-
-```sh
-npm run dev
-```
-
-This will start the Vite development server. Open [http://localhost:5173](http://localhost:5173) to view it in the browser.
-
-### 🚀 Deployment
-
-To publish the site to GitHub Pages:
-
-```sh
-npm run deploy
-```
-
-### 💡 Notes
-
--   If you’re forking or cloning this repo as a template, it’s recommended to update the git remote:
-
-```sh
-git remote set-url origin https://github.com/<your-username>/<your-repo>.git
-git remote -v # Confirm the changes
-```
-
-<p align="right"><a href="#readme-top">⬆️ Back to top</a></p>
-
-<!-- USAGE EXAMPLES -->
-
-## Usage
-
-To customize the website with your own information, update the data files located in [src/data](src/data). The website will automatically reflect your changes.
-
-For example, in [src/data/profile.ts](src/data/profile.ts), you can update the personal information with your owns:
-
-```ts
-export const UserInfo = {
-    name: "Pin-Yen Huang",
-    profile_url: "https://avatars.githubusercontent.com/u/33774054?v=4",
-    headline: "CLLab • National Taiwan University",
-    // ...other fields
-};
-```
-
-You can also customize the following files:
-
--   [src/data/profile.ts](src/data/profile.ts)
--   [src/data/education.ts](src/data/education.ts)
--   [src/data/work.ts](src/data/work.ts)
--   [src/data/publications.ts](src/data/publications.ts)
--   [src/data/talks.ts](src/data/talks.ts)
-
-To add articles, simply place your markdown files inside the [src/data/articles](src/data/articles) folder. The site will automatically include them whenever you deploy.
 
 <p align="right"><a href="#readme-top">⬆️ Back to top</a></p>
 
