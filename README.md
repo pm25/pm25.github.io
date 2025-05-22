@@ -39,7 +39,7 @@ author: Pin-Yen Huang
 
 ## About The Website
 
-This website was designed and developed by me. It showcases information about my background, including work experience, personal projects, research publications, résumé, articles I've written, and more. Feel free to explore!
+This website is designed and developed by me. It showcases information about my background, including work experience, personal projects, research publications, résumé, articles I've written, and more. Feel free to explore!
 
 I started building my personal website back in 2018 using plain HTML, CSS, and JavaScript. Since then, I’ve migrated it to a React-based version and refreshed the overall design. With the rise of modern web development tools, this latest version uses several popular frameworks and libraries, making it easier to customize and maintain. I also redesigned the UI to look more modern and consistent across different pages.
 
