@@ -12,17 +12,17 @@ author: Pin-Yen Huang
     <img src="public/full_logo.png" alt="Logo" width="360">
   </a>
 
-  <h3 align="center">SimplePlain - A Personal Website Template</h3>
+  <h3 align="center">My Personal Website</h3>
 
   <p align="center">
-    Build your personal website effortlessly with <strong>SimplePlain</strong>!  This template is designed for easy customization and is perfect for showcasing your portfolio — whether you're a researcher, engineer, or student.
-    <br />
-    <br />
-    <a href="https://pm25.github.io/simpleplain">🌐 Live Demo</a>
+    Hi! I'm Pin-Yen. This repository contains the complete source code for my personal website, which also serves as my GitHub Pages site.  
+    If you like the style of my website, feel free to check out <a href="https://github.com/pm25/simpleplain">pm25/simpleplain</a>, where I've adapted the code into an easy-to-use and customizable template for your own website.
+    <br /><br />
+    <a href="https://pm25.github.io">🌐 Website</a>
     ·
-    <a href="https://github.com/pm25/simpleplain/issues/new?labels=bug&template=bug-report---.md">🐞 Report Bug</a>
+    <a href="https://github.com/pm25/simpleplain/issues/new?labels=bug&template=bug-report---.md">🐞 Report a Bug</a>
     ·
-    <a href="https://github.com/pm25/simpleplain/issues/new?labels=enhancement&template=feature-request---.md">💡 Request Feature</a>
+    <a href="https://github.com/pm25/simpleplain/issues/new?labels=enhancement&template=feature-request---.md">💡 Request a Feature</a>
   </p>
 </div>
 
