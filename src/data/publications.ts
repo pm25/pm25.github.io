@@ -14,27 +14,6 @@ export const PubData = {
             year: 2020,
             booktitle: "15th Asia Joint Conference on Information Security (AsiaJCIS 2020)",
             link: "https://ieeexplore.ieee.org/abstract/document/9194139",
-        },
-        {
-            title: "Title",
-            authors: "Author",
-            year: "year",
-            booktitle: "Booktitle",
-            link: "https://example.com",
-        },
-        {
-            title: "Title",
-            authors: "Author",
-            year: "year",
-            booktitle: "Booktitle",
-            link: "https://example.com",
-        },
-        {
-            title: "Title",
-            authors: "Author",
-            year: "year",
-            booktitle: "Booktitle",
-            link: "https://example.com",
-        },
+        }
     ],
 };

@@ -10,7 +10,7 @@ import {
 export const UserInfo = {
     name: "Pin-Yen Huang",
     profile_url: "https://avatars.githubusercontent.com/u/33774054?v=4",
-    headline: "CLLab • National Taiwan University",
+    headline: "PhD @ Arizona State University",
     email: "pyhuang97@gmail.com",
     links: [
         {
@@ -40,12 +40,9 @@ export const UserInfo = {
         },
     ],
     biography: `
-        I'm currently working on [your field or project] and has a deep interest in
-        [specific area of focus]. With a background in [mention education or professional
-        background], they have contributed to [mention any notable work or achievements, if
-        applicable]. [Your Name] is passionate about [mention specific interests or goals]
-        and is committed to furthering knowledge in this area. Outside of [work/study], they
-        enjoy [mention hobbies or personal interests]. Feel free to reach out via [email or
-        contact form] for more information or collaboration inquiries.
+        Hi! I'm a second-year PhD student in Computer Science at Arizona State University (ASU), where I conduct deep learning research under the supervision of Prof. Baoxin Li.
+        My work focuses on the intersection of representation learning and weakly supervised learning, with an emphasis on reducing the reliance on labeled data for training AI models.
+        Before ASU, I earned my B.S. in Computer Science from NCCU, where I worked with Prof. Chao-Lin Liu, and completed a summer research internship at UIUC with Prof. Douglas L. Jones. 
+        I received my M.S. from NTU, advised by Prof. Hsuan-Tien Lin and Prof. Jieh Hsiang, and later conducted research at Academia Sinica with Dr. Yu Tsao.
     `
 }

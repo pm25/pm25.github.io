@@ -30,7 +30,7 @@ export default function Experience() {
                     <CardHeader>
                         <CardTitle className="flex flex-row justify-center items-center gap-2 text-xl">
                             <FaBriefcase />
-                            Work Experiences
+                            Work Experience & Internships
                         </CardTitle>
                     </CardHeader>
                     <CardContent>
