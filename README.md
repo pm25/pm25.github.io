@@ -39,11 +39,9 @@ author: Pin-Yen Huang
 
 ## About The Website
 
-Having a personal website is essential in today's world—it’s a great way to showcase your portfolio, share your experiences, and highlight your projects so others can get to know you better. However, building a personal website from scratch can be time-consuming, especially for those without web development experience.
+I started building my personal website back in 2018 using plain HTML, CSS, and JavaScript. Since then, I’ve migrated it to a React-based version and refreshed the overall design. With the rise of modern web development tools, this latest version uses several popular frameworks and libraries, making it easier to customize and maintain. I also redesigned the UI to look more modern and consistent across different pages.
 
-🥪 SimplePlain was originally created for my own personal website, but I realized it’s also useful for quick personal website setup. That’s why I’m sharing it, hoping it can benefit others. It’s designed to be easy to set up while maintaining flexibility for customization. Whether you're just getting started or looking for a solid foundation to build upon, SimplePlain is a great choice. It’s user-friendly for both experienced web developers and beginners alike.
-
-If you find this template helpful, feel free to leave a ⭐ to support the project!
+If you like the style, feel free to check out 🥪 <a href="https://github.com/pm25/simpleplain">pm25/simpleplain</a>, a template where I’ve organized and wrapped the code used in my personal website. You're welcome to use and customize it for your own projects!
 
 ### 🛠️ Built With
 
@@ -87,8 +85,6 @@ I am deeply grateful for the following tools and resources that contributed to t
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[screenshot-light]: preview/light-mode.webp
-[screenshot-dark]: preview/dark-mode.webp
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://react.dev
 [shadcn.ui]: https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcn/ui&logoColor=white
