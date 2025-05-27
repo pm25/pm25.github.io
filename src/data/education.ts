@@ -24,7 +24,7 @@ export const EduData = [
   },
   {
     degree: "B.S. in Computer Science",
-    school: "National Chengchi University",
+    school: "National Chi Nan University",
     years: "Sep 2016 - Jun 2018",
     logo: ncnuLogo,
   },

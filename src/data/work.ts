@@ -5,7 +5,7 @@ export const WorkData = [
   {
     title: "Research Assistant",
     company: "Academia Sinica",
-    years: "April 2023 - July 2024",
+    years: "Apr 2023 - Jul 2024",
     logo: academiaSinicaLogo,
   },
   {
