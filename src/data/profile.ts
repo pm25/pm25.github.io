@@ -39,10 +39,13 @@ export const UserInfo = {
             icon: FaSquareFacebook,
         },
     ],
+    // you can use HTML syntax here (e.g. <br/>, <a>, <strong>, ...)
     biography: `
-        Hi! I'm a second-year PhD student in Computer Science at Arizona State University (ASU), where I conduct deep learning research under the supervision of Prof. Baoxin Li.
+        Hi! I'm a second-year PhD student in Computer Science at Arizona State University, where I conduct deep learning research under the supervision of <a href="https://faculty.engineering.asu.edu/baoxin-li" target="_blank" rel="noopener noreferrer">Prof. Baoxin Li</a>.
         My work focuses on the intersection of representation learning and weakly supervised learning, with an emphasis on reducing the reliance on labeled data for training AI models.
-        Before ASU, I earned my B.S. in Computer Science from NCCU, where I worked with Prof. Chao-Lin Liu, and completed a summer research internship at UIUC with Prof. Douglas L. Jones. 
-        I received my M.S. from NTU, advised by Prof. Hsuan-Tien Lin and Prof. Jieh Hsiang, and later conducted research at Academia Sinica with Dr. Yu Tsao.
+        <div class="my-2"></div>
+        Before ASU, I earned my B.S. in Computer Science from NCCU, where I worked with <a href="https://www.cs.nccu.edu.tw/~chaolin" target="_blank" rel="noopener noreferrer">Prof. Chao-Lin Liu</a>, and completed a summer research internship at UIUC with <a href="https://ece.illinois.edu/about/directory/emeritus/dl-jones" target="_blank" rel="noopener noreferrer">Prof. Douglas L. Jones</a>. 
+        I received my M.S. from NTU, advised by <a href="https://www.csie.ntu.edu.tw/~htlin" target="_blank" rel="noopener noreferrer">Prof. Hsuan-Tien Lin</a> and <a href="https://digital.ntu.edu.tw/hsiang" target="_blank" rel="noopener noreferrer">Prof. Jieh Hsiang</a>, and later conducted research at Academia Sinica with <a href="https://homepage.citi.sinica.edu.tw/pages/yu.tsao/index_en.html" target="_blank" rel="noopener noreferrer">Dr. Yu Tsao</a>.
+        Thanks for visiting my website! Feel free to get in touch if you'd like to connect.
     `
 }

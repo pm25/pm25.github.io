@@ -5,19 +5,19 @@ import { PubData } from "@/data/publications";
 export default function Publication() {
     return (
         <div className="w-full max-w-5xl space-y-6">
-            <div className="flex flex-row justify-center items-center gap-2 text-2xl font-semibold">
+            <div className="flex flex-row justify-center items-center gap-2 text-plus font-semibold">
                 <FaBook />
                 Publications
             </div>
 
-            <div className="space-y-3 px-6 lg:px-12">
+            <div className="px-2 sm:px-6">
                 {PubData.publications.map((pub, index) => (
-                    <div key={index} className="space-y-0.5">
+                    <div key={index} className="space-y-0.5 py-2 px-4">
                         <a
                             href={pub.link}
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="text-base sm:text-lg font-semibold leading-tight hover:underline"
+                            className="text-base font-semibold leading-tight hover:underline underline-offset-4"
                         >
                             {pub.title}
                         </a>

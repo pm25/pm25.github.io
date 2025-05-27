@@ -1,4 +1,17 @@
+import uiucLogo from "./images/uiuc_logo.png";
+import academiaSinicaLogo from "./images/academia_sinica_logo.svg";
+
 export const WorkData = [
-    { title: "Research Assistant", company: "Academia Sinica", years: "2023.04 - 2024.07" },
-    { title: "Summer Research Intern", company: "University of Illinois Urbana-Champaign (UIUC)", years: "2019.07 - 2019.09" },
+  {
+    title: "Research Assistant",
+    company: "Academia Sinica",
+    years: "April 2023 - July 2024",
+    logo: academiaSinicaLogo,
+  },
+  {
+    title: "Summer Research Intern",
+    company: "University of Illinois Urbana-Champaign",
+    years: "Jul 2019 - Sep 2019",
+    logo: uiucLogo,
+  },
 ];
