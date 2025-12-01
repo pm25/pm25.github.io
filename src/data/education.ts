@@ -1,31 +1,20 @@
-import ncnuLogo from "./images/ncnu_logo.svg";
-import nccuLogo from "./images/nccu_logo.svg";
-import ntuLogo from "./images/ntu_logo.svg";
-import asuLogo from "./images/asu_logo.svg";
-
-export const EduData = [
+export const education = [
   {
-    degree: "Ph.D. in Computer Science",
-    school: "Arizona State University",
-    years: "Aug 2024 - Present",
-    logo: asuLogo,
+    degree: `Ph.D. in [Field]`,
+    school: `[University Name]`,
+    years: `20XX - Present`,
+    logo: `https://upload.wikimedia.org/wikipedia/en/a/a1/Arizona_State_University_seal.svg`
   },
   {
-    degree: "M.S. in Computer Science",
-    school: "National Taiwan University",
-    years: "Sep 2020 - Jan 2023",
-    logo: ntuLogo,
+    degree: `M.S. in Computer Science`,
+    school: `National Taiwan University`,
+    years: `2020 - 2022`,
+    logo: `/showlit/images/ntu_logo.svg`
   },
   {
-    degree: "B.S. in Computer Science",
-    school: "National Chengchi University",
-    years: "Sep 2018 - Jun 2020",
-    logo: nccuLogo,
-  },
-  {
-    degree: "B.S. in Computer Science",
-    school: "National Chi Nan University",
-    years: "Sep 2016 - Jun 2018",
-    logo: ncnuLogo,
-  },
+    degree: `B.S. in Computer Science`,
+    school: `National Chengchi University`,
+    years: `2018 - 2020`,
+    logo: `/showlit/images/nccu_logo.svg`
+  }
 ];

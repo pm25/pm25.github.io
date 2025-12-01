@@ -1,0 +1,146 @@
+{
+  "example-project": {
+    "name": "example-project",
+    "description": "A sample repository used for demonstration purposes.",
+    "stargazers_count": 0,
+    "topics": [
+      "example",
+      "repository"
+    ],
+    "language": null,
+    "homepage": "",
+    "html_url": "https://github.com/pm25/example-project",
+    "created_at": "2025-11-25T01:10:00Z",
+    "updated_at": "2025-11-25T01:16:02Z",
+    "pushed_at": "2025-11-25T01:10:00Z",
+    "displayName": "[Project Name]",
+    "previewImage": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg",
+    "featured": true
+  },
+  "showlit": {
+    "name": "showlit",
+    "description": "✨ Showlit - A modern and clean template for creating a personal website",
+    "stargazers_count": 5,
+    "topics": [
+      "personal-website-template",
+      "react",
+      "shadcn-ui",
+      "tailwindcss",
+      "typescript",
+      "vite",
+      "website",
+      "website-template"
+    ],
+    "language": "TypeScript",
+    "homepage": "https://pm25.github.io/showlit/",
+    "html_url": "https://github.com/pm25/showlit",
+    "created_at": "2024-12-20T10:05:02Z",
+    "updated_at": "2025-11-29T16:50:14Z",
+    "pushed_at": "2025-11-30T06:38:52Z",
+    "displayName": "Showlit",
+    "previewImage": "https://pm25.github.io/showlit/images/full_logo.png",
+    "featured": true
+  },
+  "Semi-Supervised-Regression": {
+    "name": "Semi-Supervised-Regression",
+    "description": "🎋 NeurIPS 2024: Official repository for the paper 'RankUp: Boosting Semi-Supervised Regression with an Auxiliary Ranking Classifier'",
+    "stargazers_count": 14,
+    "topics": [
+      "pytorch",
+      "regression",
+      "semi-supervised-learning"
+    ],
+    "language": "Python",
+    "homepage": "",
+    "html_url": "https://github.com/pm25/Semi-Supervised-Regression",
+    "created_at": "2024-10-22T21:47:31Z",
+    "updated_at": "2025-11-17T08:49:19Z",
+    "pushed_at": "2025-08-22T01:38:11Z",
+    "displayName": "Semi-Supervised Regression",
+    "previewImage": "https://pm25.github.io/research-figures/rankup/figures/rankup-illustration.png",
+    "featured": true
+  },
+  "SimplePlus-BeamerTheme": {
+    "name": "SimplePlus-BeamerTheme",
+    "description": "🍃 SimplePlus - A minimalist and clean LaTeX Beamer theme",
+    "stargazers_count": 234,
+    "topics": [
+      "beamer-template",
+      "beamer-theme",
+      "latex",
+      "latex-template",
+      "presentation"
+    ],
+    "language": "TeX",
+    "homepage": "",
+    "html_url": "https://github.com/pm25/SimplePlus-BeamerTheme",
+    "created_at": "2021-12-14T08:33:39Z",
+    "updated_at": "2025-11-26T16:09:45Z",
+    "pushed_at": "2025-01-12T22:50:46Z",
+    "displayName": "SimplePlus Beamer Theme",
+    "previewImage": "https://raw.githubusercontent.com/pm25/simpleplus-beamerTheme/master/preview/slide-1.webp",
+    "featured": true
+  },
+  "SimpleDarkBlue-BeamerTheme": {
+    "name": "SimpleDarkBlue-BeamerTheme",
+    "description": "🫐 SimpleDarkBlue - A simple and clear LaTeX Beamer theme",
+    "stargazers_count": 88,
+    "topics": [
+      "beamer-template",
+      "beamer-theme",
+      "latex",
+      "latex-template",
+      "presentation"
+    ],
+    "language": "TeX",
+    "homepage": "",
+    "html_url": "https://github.com/pm25/SimpleDarkBlue-BeamerTheme",
+    "created_at": "2021-01-12T00:59:09Z",
+    "updated_at": "2025-11-18T16:42:14Z",
+    "pushed_at": "2025-01-14T08:50:14Z",
+    "displayName": "SimpleDarkBlue Beamer Theme",
+    "previewImage": "https://raw.githubusercontent.com/pm25/simpledarkblue-beamertheme/master/preview/slide-1.webp",
+    "featured": true
+  },
+  "flappy-bird": {
+    "name": "flappy-bird",
+    "description": "🐤 Flappy Bird clone, developed with JavaScript.",
+    "stargazers_count": 2,
+    "topics": [
+      "game",
+      "javascript",
+      "website"
+    ],
+    "language": "JavaScript",
+    "homepage": "https://pm25.github.io/Flappy-Bird/",
+    "html_url": "https://github.com/pm25/flappy-bird",
+    "created_at": "2020-05-19T03:41:18Z",
+    "updated_at": "2025-11-25T15:44:47Z",
+    "pushed_at": "2022-09-10T06:40:04Z",
+    "displayName": "Flappy Bird",
+    "previewImage": null,
+    "featured": false
+  },
+  "pm25.github.io": {
+    "name": "pm25.github.io",
+    "description": "✨ PlusMore - My personal website",
+    "stargazers_count": 4,
+    "topics": [
+      "personal-website",
+      "react",
+      "shadcn-ui",
+      "tailwindcss",
+      "typescript",
+      "vite"
+    ],
+    "language": "TypeScript",
+    "homepage": "https://pm25.github.io/",
+    "html_url": "https://github.com/pm25/pm25.github.io",
+    "created_at": "2018-05-24T14:51:50Z",
+    "updated_at": "2025-11-18T16:42:40Z",
+    "pushed_at": "2025-11-21T19:49:37Z",
+    "displayName": "pm25.github.io",
+    "previewImage": null,
+    "featured": true
+  }
+}

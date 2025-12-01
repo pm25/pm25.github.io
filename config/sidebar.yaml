@@ -1,0 +1,46 @@
+# =====================================================
+# Sidebar Layout Configuration
+#
+# - The order of sections below determines their display order in the sidebar.
+# - To remove a page from the sidebar, simply delete the corresponding item.
+# =====================================================
+
+sidebar:
+  userName: "[Your Name]" # Name displayed at the top of the sidebar
+  profileImage: https://github.com/shadcn.png # Profile image URL
+  sections:
+    - title: About Me
+      url: ""
+      icon:
+        name: LuUser
+        package: "react-icons/lu"
+
+    - title: Projects
+      url: "projects"
+      icon:
+        name: LuWrench
+        package: "react-icons/lu"
+
+    - title: Publications
+      url: "publications"
+      icon:
+        name: LuLibraryBig
+        package: "react-icons/lu"
+
+    - title: Articles
+      url: "articles"
+      icon:
+        name: LuNewspaper
+        package: "react-icons/lu"
+
+    - title: Movies
+      url: "movies"
+      icon:
+        name: LuClapperboard
+        package: "react-icons/lu"
+
+    - title: Music
+      url: "music"
+      icon:
+        name: LuMusic
+        package: "react-icons/lu"

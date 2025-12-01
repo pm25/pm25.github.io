@@ -1,5 +1,5 @@
 <!--
-origin repo: https://github.com/pm25/simpleplain
+origin repo: https://github.com/pm25/Showlit
 author: Pin-Yen Huang
 -->
 
@@ -8,19 +8,22 @@ author: Pin-Yen Huang
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://pm25.github.io">
-    <img src="preview/homepage.webp" alt="Homepage" width="360" />
+  <a href="https://github.com/pm25/pm25.github.io">
+    <img src="/public/images/full_logo.png" alt="Logo" width="640">
   </a>
 
-  <h3>Pin-Yen's Personal Website</h3>
+  <h3 align="center">Pin-Yen's Personal Website</h3>
 
-  <p>
-    Hi! I'm Pin-Yen. This repository contains the complete source code for my personal website.<br />
-    If you like the style, feel free to check out 🥪 <a href="https://github.com/pm25/simpleplain">pm25/simpleplain</a>, where I’ve organized the code used in my website into an easy-to-use and customizable template for your own site.
-    <br /><br />
-    <a href="https://pm25.github.io">🌐 Website</a> ·
-    <a href="https://github.com/pm25/pm25.github.io/issues/new?labels=bug&template=bug-report---.md">🐞 Report a Bug</a> ·
-    <a href="https://github.com/pm25/pm25.github.io/issues/new?labels=enhancement&template=feature-request---.md">💡 Request a Feature</a>
+  <p align="center">
+    Hi! I'm Pin-Yen. This repository contains the complete source code for my personal website.
+    If you like the style, feel free to check out <a href="https://github.com/pm25/showlit">✨pm25/showlit</a>, where I’ve organized my website into a template for anyone to use. 
+    <br />
+    <br />
+    <a href="https://pm25.github.io">🌐 Live Demo</a>
+    ·
+    <a href="https://github.com/pm25/pm25.github.io/issues/new?labels=bug&template=bug-report---.md">🐞 Report Bug</a>
+    ·
+    <a href="./CHANGELOG.md">📄 Update Log</a>
   </p>
 </div>
 
@@ -28,7 +31,10 @@ author: Pin-Yen Huang
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#about-the-template">About The Website</a></li>
+    <li><a href="#about-the-template">About The Template</a></li>
+    <li><a href="#preview">Preview</a></li>
+    <li><a href="#getting-started">Getting Started</a></li>
+    <li><a href="#usage">Usage</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -37,23 +43,155 @@ author: Pin-Yen Huang
 
 <!-- ABOUT THE PROJECT -->
 
-## About The Website
+## About The Template
 
 This website is designed and developed by me. It showcases information about my background, including work experience, personal projects, research publications, résumé, articles I've written, and more. Feel free to explore!
 
 I started building my personal website back in 2018 using plain HTML, CSS, and JavaScript. Since then, I’ve migrated it to a React-based version and refreshed the overall design. With the rise of modern web development tools, this latest version uses several popular frameworks and libraries, making it easier to customize and maintain. I also redesigned the UI to look more modern and consistent across different pages.
 
-If you like the style, feel free to check out 🥪 <a href="https://github.com/pm25/simpleplain">pm25/simpleplain</a>, a template where I’ve organized and wrapped the code used in my personal website. You're welcome to use and customize it for your own projects!
+If you like the style, feel free to check out <a href="https://github.com/pm25/showlit">✨pm25/showlit</a>, a template where I’ve organized and wrapped the code used in my personal website. You're welcome to use and customize it for your own projects!
+
+**Why Showlit?**
+
+- ⚡ **Quick Setup** – Get your site running in minutes.
+- 🎨 **Customizable** – Easily adjust the design (basic react skills required).
+- 🔧 **Built-in Features** – Includes a blog, automatic project fetching, and more.
+- 👥 **Beginner-Friendly** – No advanced coding needed to get started.
+
+**Found this project useful?** Give it a ⭐ to support the project!
 
 ### 🛠️ Built With
 
 This project is primarily built using the following frameworks and libraries:
 
--   [![React][React.js]][React-url]
--   [![Vite][Vite]][Vite-url]
--   [![Tailwind CSS][Tailwind.css]][Tailwind-url]
--   [![Typescript][Typescript]][Typescript-url]
--   [![shadcn/ui][shadcn.ui]][shadcn-url]
+- [![React][React.js]][React-url]
+- [![Vite][Vite]][Vite-url]
+- [![Tailwind CSS][Tailwind.css]][Tailwind-url]
+- [![Typescript][Typescript]][Typescript-url]
+- [![shadcn/ui][shadcn.ui]][shadcn-url]
+
+<p align="right"><a href="#readme-top">⬆️ Back to top</a></p>
+
+## Preview
+
+See how ✨Showlit looks in both light and dark themes:
+
+### 🌞 Light Mode
+
+![Light Mode][screenshot-light]
+
+### 🌚 Dark Mode
+
+![Dark Mode][screenshot-dark]
+
+<p align="right"><a href="#readme-top">⬆️ Back to top</a></p>
+
+<!-- GETTING STARTED -->
+
+## Getting Started
+
+There are two ways to use this template:
+
+1. 🚀 [Quick Setup](https://pm25.github.io/showlit/#/articles/quick-setup) - no local development required
+2. 🧑‍💻 [Local Development & Manual Deployment](https://pm25.github.io/showlit/#/articles/manual-setup)
+
+### 🚀 Quick Setup (Simplified)
+
+This option **does not require local development**. Simply update the configuration files → commit → push. GitHub Actions will handle the build and deployment automatically.
+
+Below is a **simplified guide**. For **detailed instructions with screenshots**, see the [Quick Setup guide](https://pm25.github.io/showlit/#/articles/quick-setup).
+
+---
+
+**1️⃣ Create Your Repository**
+
+Click **"Use this template"** → **"Create a new repository"**.
+
+On the **Create a new repository** page:
+
+- Enable **"Include all branches"**
+- Enter a repository name
+- Set the visibility to **Public** (default is Public already)
+- Click **"Create repository"**
+
+---
+
+**2️⃣ Enable GitHub Pages**
+
+Go to your **Repository Settings** → **Pages**, then configure:
+
+- **Branch:** `gh-pages`
+- **Folder:** `/(root)`
+
+Click **Save**.
+
+---
+
+**3️⃣ Update Configuration Files**
+
+- [`site.yaml`](/config/site.yaml) — website title, metadata, etc.
+- [`profile.yaml`](/config/profile.yaml) — your name, email, profile image, etc.
+- [`sidebar.yaml`](/config/sidebar.yaml) — sidebar layout
+- [`giscus.yaml`](/config/giscus.yaml) — Giscus (article comments) configuration
+- [`publications.yaml`](/config/publications.yaml) — (optional) research publications list
+
+---
+
+**4️⃣ Commit and Push Changes**
+
+Once your changes are pushed (or merged) to `main` branch, GitHub Actions will automatically:
+
+- Build the project
+- Deploy to GitHub Pages
+- Publish your website 🎉
+
+After a few minutes, your website will be available at:
+
+```sh
+https://<your-github-username>.github.io/<your-repo-name>
+```
+
+<p align="right"><a href="#readme-top">⬆️ Back to top</a></p>
+
+<!-- USAGE -->
+
+## Usage
+
+### ✏️ Customize Content
+
+You can personalize the website by updating the configuration files located in the [config](config) folder. Any changes will be automatically applied when the site is built or deployed.
+
+For example, in [config/profile.yaml](config/profile.yaml), you can update the information with your owns:
+
+```yaml
+profile:
+  name: "Pin-Yen Huang"
+  headline: "Student @ National Taiwan University"
+  email: "pyhuang97@gmail.com"
+  profileImage: "https://github.com/pm25.png"
+  # ...other fields
+```
+
+Other configurable files include:
+
+- Website Information: [config/site.yaml](config/site.yaml)
+- Profile Information: [config/profile.yaml](config/profile.yaml)
+- Sidebar Layout: [config/sidebar.yaml](config/sidebar.yaml)
+- Giscus Comments: [config/giscus.yaml](config/giscus.yaml)
+- Publications: [config/publications.yaml](config/publications.yaml)
+
+### 📝 Add Articles
+
+To add a article, create a folder and Markdown file inside [public/articles](public/articles) following this structure:
+
+```sh
+# 💡 the folder name and Markdown filename must be the same
+/public/articles/{slug}/{slug}.md
+```
+
+You can use [public/articles/template/template.md](public/articles/template/template.md) as a reference.
+
+When the site is built or deployed, any properly structured articles will be automatically included and indexed.
 
 <p align="right"><a href="#readme-top">⬆️ Back to top</a></p>
 
@@ -79,14 +217,17 @@ Pin-Yen Huang - [pyhuang97@gmail.com](mailto:pyhuang97@gmail.com)
 
 I am deeply grateful for the following tools and resources that contributed to the development of this project:
 
--   [React Icons](https://react-icons.github.io/react-icons)
--   [Best README Template](https://github.com/othneildrew/Best-README-Template)
+- [giscus](https://giscus.app)
+- [React Icons](https://react-icons.github.io/react-icons)
+- [Best README Template](https://github.com/othneildrew/Best-README-Template)
 
 <p align="right"><a href="#readme-top">⬆️ Back to top</a></p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
+[screenshot-light]: preview/showlit-light.png
+[screenshot-dark]: preview/showlit-dark.png
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://react.dev
 [shadcn.ui]: https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcn/ui&logoColor=white

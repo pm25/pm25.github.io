@@ -12,20 +12,20 @@ export default function Layout() {
             <SidebarInset className="min-h-screen">
                 <SidebarTrigger className="fixed left-3 top-3 md:hidden z-5" />
 
-                <div className="px-6 sm:px-12 py-20 grow">
+                <div className="px-6 sm:px-12 py-24 grow">
                     <Outlet />
                 </div>
 
-                {/* It would be greatly appreciated if you could leave the footer as it is! */}
-                <footer className="text-sm w-full text-center border-t py-2 sm:py-4">
+                {/* I would really appreciate it if you could keep the footer as it is to preserve attribution. Thank you! */}
+                <footer className="text-sm w-full text-center border-t py-4">
                     Created by
-                    <Button variant="link" className="px-1">
+                    <Button asChild variant="link" className="p-0 ml-1">
                         <a
-                            href="https://github.com/pm25/simpleplain"
+                            href="https://github.com/pm25/showlit"
                             target="_blank"
                             rel="noopener noreferrer"
                         >
-                            SimplePlain Template
+                            Showlit Template
                         </a>
                     </Button>
                 </footer>
