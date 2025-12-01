@@ -12,21 +12,21 @@
 # =====================================================
 
 profile:
-  name: "[Your Name]"
-  headline: "Student @ [Your University]"
-  email: "your-email@gmail.com"
+  name: "Pin-Yen (Jason) Huang"
+  headline: "PhD Student @ Arizona State University"
+  email: "pyhuang97@gmail.com"
   location: null
   profileImage: "https://github.com/pm25.png"
 
   links:
     - name: "LinkedIn"
-      url: "https://www.linkedin.com/in/[your-linkedin]"
+      url: "https://www.linkedin.com/in/py-huang"
       icon:
         name: "FaLinkedin"
         package: "react-icons/fa6"
 
     - name: "Google Scholar"
-      url: "https://scholar.google.com/citations?user=[your-id]"
+      url: "https://scholar.google.com/citations?user=nQdpH2MAAAAJ&hl=en"
       icon:
         name: "FaGoogleScholar"
         package: "react-icons/fa6"
@@ -38,20 +38,20 @@ profile:
         package: "react-icons/fa6"
 
     - name: "Github"
-      url: "https://github.com/[your-github]"
+      url: "https://github.com/pm25"
       icon:
         name: "FaGithub"
         package: "react-icons/fa6"
 
-    - name: "Facebook"
-      url: "https://www.facebook.com/[your-facebook]"
+    - name: "X / Twitter"
+      url: "https://x.com/pyhuang97"
       icon:
-        name: "FaSquareFacebook"
+        name: "FaXTwitter"
         package: "react-icons/fa6"
 
   # you can use HTML syntax here (e.g. <br/>, <a>, <strong>, ...)
   biography: |
-    Hi! I'm <strong>[Your Name]</strong>, a <em>[Your Title]</em> passionate about <em>[field or topic]</em>. Currently, I work as <em>[current role]</em> at <em>[organization]</em>, where I <em>[briefly describe your work or mission]</em>. 
+    Hi! I'm <strong>Pin-Yen</strong>, a <em>[Your Title]</em> passionate about <em>[field or topic]</em>. Currently, I work as <em>[current role]</em> at <em>[organization]</em>, where I <em>[briefly describe your work or mission]</em>. 
     With a background in <em>[academic or professional background]</em>, I've developed strong interests in <em>[key interests or specialties]</em> and have contributed to projects like <i>[example project]</i> and <i>[another example]</i>, all focused on <em>[broader goal or impact]</em>.
     <div class="my-2"></div>
     Outside of work, I enjoy <em>[hobbies or personal interests]</em>, which inspire creativity and keep me energized. Thanks for visiting! Feel free to <a href="mailto:[your-email@example.com]" target="_blank" rel="noopener noreferrer">reach out</a> to connect.
@@ -61,9 +61,9 @@ profile:
 # # =====================================================
 
 education:
-  - degree: "Ph.D. in [Field]"
-    school: "[University Name]"
-    years: "20XX - Present"
+  - degree: "Ph.D. in Computer Science"
+    school: "Arizona State University"
+    years: "2024 - Present"
     logo: "https://upload.wikimedia.org/wikipedia/en/a/a1/Arizona_State_University_seal.svg"
 
   - degree: "M.S. in Computer Science"
@@ -81,17 +81,12 @@ education:
 # # =====================================================
 
 workExperience:
-  - title: "[Job Title]"
-    company: "[Company Name]"
-    years: "20XX - Present"
-    logo: "/images/nvidia_logo.webp"
-
-  - title: "Software Engineering Intern"
-    company: "Google"
-    years: "Jul 2022 - Sep 2022"
-    logo: "/images/google_logo.svg"
-
   - title: "Research Assistant"
+    company: "Academia Sinica"
+    years: "Jun 2023 - Jun 2024"
+    logo: "/images/academia_sinica_logo.png"
+
+  - title: "Summer Research Internship"
     company: "University of Illinois Urbana-Champaign"
     years: "Jul 2019 - Sep 2019"
     logo: "/images/uiuc_logo.png"
@@ -101,39 +96,18 @@ workExperience:
 # # =====================================================
 
 talks:
-  - category: "Misc"
-    title: "[Your Talk Title Here]"
-    organization: "[Your Talk Location Here]"
-    date: "[Month Day, Year]"
-    link: "https://example.com/your-talk-link"
-    image: "https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg"
-
   - category: "Workshop"
     title: "Deep Learning with Keras"
-    organization: "University of Illinois Urbana-Champaign (UIUC)"
+    organization: "University of Illinois Urbana-Champaign (UIUC), Prof. Stephen Boppart's Group"
     date: "Sep 4, 2019"
     link: null
     image: "https://pm25.github.io/static/media/2019-9-4-workshop.b5d2675f.webp"
-
-  - category: "Workshop"
-    title: "Practical Guide to PyTorch"
-    organization: "ABC University"
-    date: "Dec 5, 2022"
-    link: "https://example.com/workshop-talk"
-    image: null
 
 # # =====================================================
 # # 🛡️ Professional Services
 # # =====================================================
 
 services:
-  - category: "Misc"
-    role: "[Role]"
-    organization: "[Organization]"
-    date: "[Year]"
-    link: "https://example.com/workshop-talk"
-    image: "https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg"
-
   - category: "Research"
     role: "Reviewer"
     organization: "TPAMI 2024, NeurIPS 2025"
@@ -141,17 +115,10 @@ services:
     link: null
     image: null
 
-  - category: "Research"
-    role: "Program Committee Member"
-    organization: "CVPR 2022"
-    date: "2022"
-    link: null
-    image: null
-
   - category: "Teaching"
     role: "Teaching Assistant"
     organization: "National Taiwan University - Data Structures & Algorithms"
-    date: "2021"
+    date: "Spring 2021"
     link: null
     image: null
 
@@ -160,15 +127,37 @@ services:
 # # =====================================================
 
 skills:
-  Programming:
-    - name: "[Name]"
-      logo: "https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"
-      proficiency: "[Proficiency]"
-      description: "[Description]"
+  Research:
+    - name: "Machine Learning"
+      logo: "https://upload.wikimedia.org/wikipedia/commons/2/2a/OOjs_UI_icon_academic-progressive.svg"
+      proficiency: 2019 - Current
+      description: ""
 
+  Language:
+    - name: "Mandarin"
+      logo: "https://upload.wikimedia.org/wikipedia/commons/e/e0/OOjs_UI_icon_language-ltr-progressive.svg"
+      proficiency: Native
+      description: "Native fluency."
+
+    - name: "English"
+      logo: "https://upload.wikimedia.org/wikipedia/commons/e/e0/OOjs_UI_icon_language-ltr-progressive.svg"
+      proficiency: Fluent
+      description: "Professional working proficiency."
+
+  Programming:
     - name: "Python"
       logo: "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"
       proficiency: Experienced
+      description: null
+
+    - name: "PyTorch"
+      logo: "https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg"
+      proficiency: Experienced
+      description: null
+
+    - name: "C/C++"
+      logo: "https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"
+      proficiency: "Fluent"
       description: null
 
     - name: "JavaScript"
@@ -176,15 +165,9 @@ skills:
       proficiency: Fluent
       description: null
 
-  Web:
     - name: "React"
       logo: "https://upload.wikimedia.org/wikipedia/commons/3/30/React_Logo_SVG.svg"
       proficiency: Advanced
-      description: null
-
-    - name: "Typescript"
-      logo: "https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg"
-      proficiency: Fluent
       description: null
 
     - name: "TailwindCSS"
@@ -196,41 +179,3 @@ skills:
       logo: "https://logo.svgcdn.com/devicon/nextjs-original.png"
       proficiency: Fluent
       description: null
-
-  Machine Learning:
-    - name: "PyTorch"
-      logo: "https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg"
-      proficiency: Experienced
-      description: null
-
-    - name: "TensorFlow"
-      logo: "https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg"
-      proficiency: Fluent
-      description: null
-
-    - name: "Keras"
-      logo: "https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg"
-      proficiency: Fluent
-      description: null
-
-  Research:
-    - name: "Machine Learning"
-      logo: "https://upload.wikimedia.org/wikipedia/commons/2/2a/OOjs_UI_icon_academic-progressive.svg"
-      proficiency: 2020 - Current
-      description: "General machine learning methods and applied research."
-
-    - name: "Representation Learning"
-      logo: "https://upload.wikimedia.org/wikipedia/commons/2/2a/OOjs_UI_icon_academic-progressive.svg"
-      proficiency: 2024 - 2025
-      description: "Learning meaningful embeddings and feature representations from data."
-
-  Language:
-    - name: "English"
-      logo: "https://upload.wikimedia.org/wikipedia/commons/e/e0/OOjs_UI_icon_language-ltr-progressive.svg"
-      proficiency: Fluent
-      description: "Professional working proficiency."
-
-    - name: "Taiwanese Hokkien"
-      logo: "https://upload.wikimedia.org/wikipedia/commons/e/e0/OOjs_UI_icon_language-ltr-progressive.svg"
-      proficiency: Native
-      description: "Native fluency."

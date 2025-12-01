@@ -1,10 +1,5 @@
 export const movies = [
   {
-    title: `[Movie Title]`,
-    posterImage: `https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Example_en.svg/1280px-Example_en.svg.png`,
-    note: `[Movie Description]`
-  },
-  {
     title: `The Shawshank Redemption`,
     posterImage: `https://media.themoviedb.org/t/p/w440_and_h660_face/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg`,
     note: `A timeless story of hope and perseverance that reminds me to stay resilient, no matter the odds.`

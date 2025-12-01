@@ -17,7 +17,7 @@
 # =====================================================
 
 giscus:
-  repo: "pm25/showlit" # data-repo
-  repoId: "R_kgDONgMOyA" # data-repo-id
+  repo: "pm25/pm25.github.io" # data-repo
+  repoId: "MDEwOlJlcG9zaXRvcnkxMzQ3MzAxMTA=" # data-repo-id
   category: "General" # data-category
-  categoryId: "DIC_kwDONgMOyM4Cq4Ga" # data-category-id
+  categoryId: "DIC_kwDOCAfRfs4CzRM4" # data-category-id

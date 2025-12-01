@@ -4,7 +4,7 @@
 # =====================================================
 
 site:
-  name: "Showlit"
-  repoUrl: "https://github.com/pm25/showlit"
-  description: "A short description"
-  author: "Your Name"
+  name: "PinYen"
+  repoUrl: "https://github.com/pm25/pm25.github.io"
+  description: "Pin-Yen's personal website"
+  author: "Pin-Yen Huang"

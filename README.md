@@ -8,11 +8,7 @@ author: Pin-Yen Huang
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/pm25/pm25.github.io">
-    <img src="/public/images/full_logo.png" alt="Logo" width="640">
-  </a>
-
-  <h3 align="center">Pin-Yen's Personal Website</h3>
+  <h3 align="center">📰 Pin-Yen's Personal Website</h3>
 
   <p align="center">
     Hi! I'm Pin-Yen. This repository contains the complete source code for my personal website.

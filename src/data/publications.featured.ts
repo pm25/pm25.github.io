@@ -2,13 +2,6 @@ export const publicationsFeatured = {
   authorName: `Pin-Yen Huang`,
   items: [
     {
-      title: `[Publication Title]`,
-      authors: `[Author Names]`,
-      year: `[Year]`,
-      venue: `[Conference / Journal Name]`,
-      link: `https://example.com/your-publication-link`
-    },
-    {
       title: `RankUp: Boosting Semi-Supervised Regression with an Auxiliary Ranking Classifier`,
       authors: `Pin-Yen Huang, Szu-Wei Fu, Yu Tsao`,
       year: 2024,

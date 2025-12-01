@@ -4,14 +4,6 @@ export const publications: PublicationsType = {
   authorName: `Pin-Yen Huang`,
   items: [
     {
-      title: `[Publication Title]`,
-      authors: `[Author Names]`,
-      year: `[Year]`,
-      venue: `[Conference / Journal Name]`,
-      link: `https://example.com/your-publication-link`,
-      featured: true
-    },
-    {
       title: `RankUp: Boosting Semi-Supervised Regression with an Auxiliary Ranking Classifier`,
       authors: `Pin-Yen Huang, Szu-Wei Fu, Yu Tsao`,
       year: 2024,
@@ -28,11 +20,11 @@ export const publications: PublicationsType = {
       featured: true
     },
     {
-      title: `[Publication Title]`,
-      authors: `[Author Names]`,
-      year: `[Year]`,
-      venue: `[Conference / Journal Name]`,
-      link: `https://example.com/your-publication-link`,
+      title: `Greedy Algorithm Applied Secrecy Rate Analysis in the Cooperative Communication`,
+      authors: `Jong-Shin Chen, Shu-Chen Chang, Pin-Yen Huang, Cheng-Ying Yang`,
+      year: `2019`,
+      venue: `Proceedings of the International Conference on Information and Knowledge Engineering (IKE)`,
+      link: `https://www.proquest.com/openview/332071f04303f1a321c5aa6984808a58/1?pq-origsite=gscholar&cbl=1976346`,
       featured: false
     }
   ]
