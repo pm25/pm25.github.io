@@ -9,12 +9,12 @@ export const education = [
     degree: `M.S. in Computer Science`,
     school: `National Taiwan University`,
     years: `2020 - 2022`,
-    logo: `/pm25.github.io/images/ntu_logo.svg`
+    logo: `/images/ntu_logo.svg`
   },
   {
     degree: `B.S. in Computer Science`,
     school: `National Chengchi University`,
     years: `2018 - 2020`,
-    logo: `/pm25.github.io/images/nccu_logo.svg`
+    logo: `/images/nccu_logo.svg`
   }
 ];

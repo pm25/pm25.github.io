@@ -19,7 +19,7 @@ export const profile = {
     },
     {
       name: `Résumé`,
-      url: `/pm25.github.io/pdf/sample-resume.pdf`,
+      url: `/pdf/sample-resume.pdf`,
       icon: FaRegIdBadge
     },
     {
