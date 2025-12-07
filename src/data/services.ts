@@ -5,7 +5,7 @@ export const services = [
     organization: `TPAMI 2024, NeurIPS 2025`,
     date: `2024-2025`,
     link: null,
-    image: null
+    image: null,
   },
   {
     category: `Teaching`,
@@ -13,6 +13,6 @@ export const services = [
     organization: `National Taiwan University - Data Structures & Algorithms`,
     date: `Spring 2021`,
     link: null,
-    image: null
-  }
+    image: null,
+  },
 ];

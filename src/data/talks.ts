@@ -5,6 +5,6 @@ export const talks = [
     organization: `University of Illinois Urbana-Champaign (UIUC), Prof. Stephen Boppart's Group`,
     date: `Sep 4, 2019`,
     link: null,
-    image: `/images/uiuc-workshop.webp`
-  }
+    image: `/images/uiuc-workshop.webp`,
+  },
 ];
