@@ -44,7 +44,7 @@ profile:
         package: "react-icons/fa6"
 
     - name: "X / Twitter"
-      url: "https://x.com/pyhuang97"
+      url: "https://x.com/pyyhuang"
       icon:
         name: "FaXTwitter"
         package: "react-icons/fa6"
